@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+#full-width{
+    background: #;
+}
+.content-row{
+    height: 100vh;   
+}
+.heading-1 {
+    font-size: 42px;
+    font-weight: 700;
+    color: #010101;
+}
+.bg-1{}
+.bg-2{      
+}
+ .box-1{
+     border: 1px solid #e6e6e6;
+    padding: 20px 40px 10px;
+}
+.btn-1{
+    background: #83AFF3;
+    color: #fdfdfd;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 10px 30px;
+}
+#second-form{
+    background:;
+    padding: 60px 0;
+}
+
+.common-label{
+        font-size: 20px;
+    font-weight: 600;
+    color: #0101010;
+    line-height: 1.2;
+}
+.form-check-label{
+    font-size: 16px;
+    color: #0101010;
+    font-weight: 400;
+}
+.img-1{
+    width: 30%;
+    padding: 40px 0;
+}
+
